@@ -1,0 +1,12 @@
+Data: 07-11-2014  Time-In: 9:15am   Time-Out: 5:45pm 
+Code Writing: 200 lines groovy, 200 lines java
+Daily Duty:
+1. start use spock as test tool for groovy and java classes
+2. 
+
+
+
+
+1. get familiar with groovy and code in intellij, working on Groovy in Action and Making Java Groovy
+2. configure oracle developer, test jdbc connection with oracle in intellij
+3. start grails project documentation
