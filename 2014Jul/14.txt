@@ -1,0 +1,6 @@
+Data: 07-14-2014  Time-In: 9:15am   Time-Out: 6:00pm 
+Code Writing: 300 lines groovy
+Daily Duty:
+1. POGO, web service codes(SOAP and RESTful) and mysql connection
+2. angular js quick start
+3. touch contributor-desk project 
