@@ -1,0 +1,6 @@
+Data: 07-15-2014  Time-In: 9:45am   Time-Out: 6:15pm 
+Code Writing: 300 lines groovy
+Daily Duty:
+1. integration, call java from groovy and groovy from java
+2. make test changes on contributor-desk project
+3. groovy programming writting   
