@@ -1,0 +1,7 @@
+Data: 07-17-2014  Time-In: 9:30am   Time-Out: 6:15pm 
+Code Writing: 200 lines groovy
+Daily Duty:
+1. groovy in action
+2. study apache velocity project, as template in grails projects
+3. quick glance at grails java mail service, will read more tomorrow
+
