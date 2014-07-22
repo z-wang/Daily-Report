@@ -1,0 +1,6 @@
+Data: 07-21-2014  Time-In: 9:15am   Time-Out: 6:30pm 
+Code Writing: 200 lines groovy/java
+Daily Duty:
+1. groovy in action
+2. jdbc connect with mongodb
+3. write TemplateService and .vm for velocity tenplate and mailService class
