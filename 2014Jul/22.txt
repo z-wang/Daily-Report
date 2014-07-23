@@ -1,0 +1,5 @@
+Data: 07-22-2014  Time-In: 9:30am   Time-Out: 5:30pm 
+Code Writing: 200 lines groovy/java
+Daily Duty:
+1. updated TemplateService and template file, and spock test it
+2. updated MailerService and use gsp test.
