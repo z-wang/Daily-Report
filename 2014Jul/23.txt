@@ -1,0 +1,6 @@
+Data: 07-23-2014  Time-In: 9:30am   Time-Out: 6:30pm 
+Code Writing: 100 lines groovy
+Daily Duty:
+1. working on entity creation of mongodb and gorm configuration 
+2. groovy in action
+3. quartz configuration for mailer project
