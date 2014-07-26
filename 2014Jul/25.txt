@@ -1,0 +1,5 @@
+Data: 07-25-2014  Time-In: 9:30am   Time-Out: 6:30pm 
+Code Writing: 200 lines groovy/java
+Daily Duty:
+1. working on project structure and gorm 
+2. groovy in action
