@@ -1,0 +1,6 @@
+Data: 07-28-2014  Time-In: 9:30am   Time-Out: 6:45pm 
+Code Writing: 200 lines groovy/java
+Daily Duty:
+1. working on project structure and webflow 
+2. template and product domain, service and controller
+3. groovy in action
