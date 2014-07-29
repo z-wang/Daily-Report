@@ -1,0 +1,5 @@
+Data: 07-29-2014  Time-In: 9:30am   Time-Out: 7:00pm 
+Code Writing: 100 lines groovy/java
+Daily Duty:
+1. working on renewal-mailer project
+2. working on gsp and controller 
