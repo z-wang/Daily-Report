@@ -1,0 +1,5 @@
+Data: 08-07-2014  Time-In: 9:30am   Time-Out: 6:15pm 
+Code Writing: 200 lines groovy
+Daily Duty:
+1. finish api controller and marshaller for product domain
+2. working on datatable configuration (having trouble with easygrid config)
