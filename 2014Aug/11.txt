@@ -1,0 +1,5 @@
+Data: 08-11-2014  Time-In: 09:30am   Time-Out: 6:00pm 
+Code Writing: 200 lines groovy
+Daily Duty:
+1. working on admin page and template page for mailer
+2. fix ajax bug in product page
