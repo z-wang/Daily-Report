@@ -1,0 +1,6 @@
+Data: 08-13-2014  Time-In: 10:00am   Time-Out: 7:00pm 
+Code Writing: 100 lines groovy, front end
+Daily Duty:
+1. edit admin page: refine format and delete template manage link.
+2. fix nav bar for product datatable and edit page
+3. working on angularjs
